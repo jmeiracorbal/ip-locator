@@ -53,7 +53,7 @@ jobs:
     - name: Test PyInstaller build
       run: |
         uv sync --all-extras
-        uv run pyinstaller --onefile --name "test-ip-locator" main.py
+        uv run pyinstaller --onefile --name "test-ip-locator" src/tracker/__main__.py
         ls -la dist/
         echo '✓ PyInstaller build successful'
 
