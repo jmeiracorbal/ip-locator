@@ -1,8 +1,9 @@
 # IP Locator
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
-[![uv](https://img.shields.io/badge/uv-managed-blue.svg)](https://github.com/astral-sh/uv)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![PyPI version](https://img.shields.io/pypi/v/ip-locator.svg)](https://pypi.org/project/ip-locator/)
+[![PyPI downloads](https://img.shields.io/pypi/dm/ip-locator.svg)](https://pypi.org/project/ip-locator/)
+[![Python](https://img.shields.io/pypi/pyversions/ip-locator.svg)](https://pypi.org/project/ip-locator/)
+[![License](https://img.shields.io/pypi/l/ip-locator.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey.svg)](https://github.com/jmeiracorbal/ip-locator)
 
 A command-line tool to get detailed geolocation and network information about IP addresses. Discover location, ISP, timezone, coordinates, and other details about any IP address.
